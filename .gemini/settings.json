@@ -1,0 +1,17 @@
+{
+       "mcpServers": {
+         "context7": {
+      "httpUrl": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "ctx7sk-ca69c1e0-c84f-43e1-a53b-4471ed982228",
+        "Accept": "application/json, text/event-stream"
+      }
+    },
+        "github": {
+            "httpUrl": "https://api.githubcopilot.com/mcp/",
+            "headers": {
+                "Authorization": "Bearer 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 "
+            }
+        }
+      }   
+}
