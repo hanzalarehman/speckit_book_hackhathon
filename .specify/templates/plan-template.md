@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Technical Accuracy**: Does the plan ensure all claims are verifiable and well-sourced?
+- [ ] **Specification-Driven Development**: Is the work being driven by a clear specification?
+- [ ] **Clarity and Accessibility**: Does the plan account for the target audience and readability?
+- [ ] **Reproducibility and Verifiability**: Are all code and examples planned to be reproducible?
+- [ ] **Safety and Correctness**: Does the plan prioritize safe and correct control descriptions?
+- [ ] **Content Integrity**: Does the plan ensure zero plagiarism and proper citation?
 
 ## Project Structure
 
