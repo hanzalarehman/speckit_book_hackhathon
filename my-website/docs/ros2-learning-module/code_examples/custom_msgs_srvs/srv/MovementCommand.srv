@@ -1,0 +1,4 @@
+string command # e.g., "move_forward", "stop"
+---
+bool success
+string message
