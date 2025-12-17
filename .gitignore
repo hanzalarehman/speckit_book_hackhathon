@@ -1,0 +1,67 @@
+# Gitignore for Digital Twin Simulation Module
+
+# Node.js / Docusaurus
+node_modules/
+dist/
+build/
+*.log
+.env*
+package-lock.json # managed by git
+yarn.lock         # managed by git
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# C++
+build/
+bin/
+obj/
+out/
+*.o
+*.so
+*.a
+*.exe
+
+# ROS 2 specific
+install/
+log/
+build/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools/
+Assets/UnityPackageManager/
+Assets/Plugins/Editor/JetBrains/
+Assets/*-Generated/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE and OS specific
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+*.user
+*.suo

@@ -1,0 +1,8 @@
+# RobotCommand.srv
+# Request
+float32 linear_velocity
+float32 angular_velocity
+---
+# Response
+bool success
+string message
