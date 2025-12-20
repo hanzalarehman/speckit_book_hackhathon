@@ -6,9 +6,9 @@
 
 **Purpose**: Create the necessary directories and files for the new Docusaurus module.
 
-- [x] T001 Create directory for Module 4 in `my-website/docs/ros2-learning-module/vla-module/`
-- [x] T002 Create `_category_.json` for the new module in `my-website/docs/ros2-learning-module/vla-module/_category_.json`
-- [x] T003 Update `sidebars.js` to include the new module in `my-website/sidebars.js`
+- [ ] T001 Create directory for Module 4 in `my-website/docs/ros2-learning-module/vla-module/`
+- [ ] T002 Create `_category_.json` for the new module in `my-website/docs/ros2-learning-module/vla-module/_category_.json`
+- [ ] T003 Update `sidebars.js` to include the new module in `my-website/sidebars.js`
 
 ---
 
@@ -20,12 +20,12 @@
 
 ### Implementation for User Story 1
 
-- [x] T004 [US1] Create `voice-to-action.md` in `my-website/docs/ros2-learning-module/vla-module/`
-- [x] T005 [P] [US1] Write content for the "Speech Input" section.
-- [x] T006 [P] [US1] Write content for the "OpenAI Whisper" section.
-- [x] T007 [P] [US1] Write content for the "Intent Extraction" section.
-- [x] T008 [US1] Add a text-described diagram for the Voice-to-Action pipeline.
-- [x] T009 [US1] Write the "Key Takeaways" section for Chapter 1.
+- [ ] T004 [US1] Create `voice-to-action.md` in `my-website/docs/ros2-learning-module/vla-module/`
+- [ ] T005 [P] [US1] Write content for the "Speech Input" section.
+- [ ] T006 [P] [US1] Write content for the "OpenAI Whisper" section.
+- [ ] T007 [P] [US1] Write content for the "Intent Extraction" section.
+- [ ] T008 [US1] Add a text-described diagram for the Voice-to-Action pipeline.
+- [ ] T009 [US1] Write the "Key Takeaways" section for Chapter 1.
 
 ---
 
@@ -37,11 +37,11 @@
 
 ### Implementation for User Story 2
 
-- [x] T010 [US2] Create `cognitive-planning-llms.md` in `my-website/docs/ros2-learning-module/vla-module/`
-- [x] T011 [P] [US2] Write content for the "Task Decomposition" section.
-- [x] T012 [P] [US2] Write content for the "LLM-to-ROS 2 Action Sequencing" section.
-- [x] T013 [US2] Add a text-described diagram for the LLM planning flow.
-- [x] T014 [US2] Write the "Key Takeaways" section for Chapter 2.
+- [ ] T010 [US2] Create `cognitive-planning-llms.md` in `my-website/docs/ros2-learning-module/vla-module/`
+- [ ] T011 [P] [US2] Write content for the "Task Decomposition" section.
+- [ ] T012 [P] [US2] Write content for the "LLM-to-ROS 2 Action Sequencing" section.
+- [ ] T013 [US2] Add a text-described diagram for the LLM planning flow.
+- [ ] T014 [US2] Write the "Key Takeaways" section for Chapter 2.
 
 ---
 
@@ -53,10 +53,10 @@
 
 ### Implementation for User Story 3
 
-- [x] T015 [US3] Create `autonomous-humanoid-capstone.md` in `my-website/docs/ros2-learning-module/vla-module/`
-- [x] T016 [P] [US3] Write content for the "End-to-End VLA System Integration" section.
-- [x] T017 [US3] Add a text-described diagram for the end-to-end VLA system.
-- [x] T018 [US3] Write the "Key Takeaways" section for Chapter 3.
+- [ ] T015 [US3] Create `autonomous-humanoid-capstone.md` in `my-website/docs/ros2-learning-module/vla-module/`
+- [ ] T016 [P] [US3] Write content for the "End-to-End VLA System Integration" section.
+- [ ] T017 [US3] Add a text-described diagram for the end-to-end VLA system.
+- [ ] T018 [US3] Write the "Key Takeaways" section for Chapter 3.
 
 ---
 
@@ -64,9 +64,9 @@
 
 **Purpose**: Final review and validation of the generated content.
 
-- [x] T019 Review all content for clarity, technical accuracy, and adherence to the module's goals.
-- [x] T020 Validate that the Docusaurus application builds successfully with the new module.
-- [x] T021 Run `quickstart.md` steps to ensure the documentation is easy to follow.
+- [ ] T019 Review all content for clarity, technical accuracy, and adherence to the module's goals.
+- [ ] T020 Validate that the Docusaurus application builds successfully with the new module.
+- [ ] T021 Run `quickstart.md` steps to ensure the documentation is easy to follow.
 
 ---
 
